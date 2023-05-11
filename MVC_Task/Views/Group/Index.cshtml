@@ -1,0 +1,9 @@
+﻿﻿@using MVC_Task.Models;
+@model List<Group>;
+
+<ul>
+    @foreach (var group in Model)
+    {
+        <li>ID: @group.Id; Name: @group.Name; Price: @group.Size</li>
+    }
+</ul>

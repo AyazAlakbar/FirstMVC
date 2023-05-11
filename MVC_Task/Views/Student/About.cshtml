@@ -1,0 +1,16 @@
+﻿@using MVC_Task.Models;
+@model List<Student>;
+
+@foreach (var item in Model)
+{
+    <h1>Name: @item.FullName</h1>
+    <p>Id: @item.Id</p>
+    <p>Age: @item.Age</p>
+    <p>GroupId: @item.GroupId</p>
+    <hr >
+}
+
+
+
+
+
