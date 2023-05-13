@@ -105,3 +105,4 @@ C:\Users\ProBook\Desktop\BackEnd\MVC\MVC_Task\MVC_Task\obj\Debug\netcoreapp3.1\R
 C:\Users\ProBook\Desktop\BackEnd\MVC\MVC_Task\MVC_Task\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
 C:\Users\ProBook\Desktop\BackEnd\MVC\MVC_Task\MVC_Task\obj\Debug\netcoreapp3.1\Razor\Views\Student\Detail.cshtml.g.cs
 C:\Users\ProBook\Desktop\BackEnd\MVC\MVC_Task\MVC_Task\obj\Debug\netcoreapp3.1\Razor\Views\Student\About.cshtml.g.cs
+C:\Users\ProBook\Desktop\BackEnd\MVC\MVC_Task\MVC_Task\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs

@@ -47,6 +47,13 @@ namespace MVC_Task.Controllers
             Student3.Age = 25;
             Student3.GroupId = 2;
 
+            Student Student4 = new Student();
+            Student4.Id = 4;
+            Student4.FullName = "Name3 XXX";
+            Student4.Age = 25;
+            Student4.GroupId = 2;
+
+
             List<Student> Students = new List<Student>();
             Students.Add(Student1);
             Students.Add(Student2);
